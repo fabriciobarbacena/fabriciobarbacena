@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I don't use this profile here. On GitHub, I use the username (fabricius1)[https://github.com/fabricius1]. 
+I don't use this profile here. On GitHub, I use the username [fabricius1](https://github.com/fabricius1). 
 
 So, I invite you to visit my repositories there. Thanks!
 
